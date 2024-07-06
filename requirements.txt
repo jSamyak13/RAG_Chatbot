@@ -1,0 +1,8 @@
+langchain 
+openai 
+pypdf 
+langchain-community 
+chromadb 
+tiktoken 
+langchainhub
+gradio
